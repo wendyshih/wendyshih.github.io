@@ -24,12 +24,12 @@ blockcontainer{
   height: 90vh;
 }
 .block{
-  margin-bottom:100px;
+  margin-bottom:80px;
 }
 .photo{
   border-radius:50%;
-  width:180px;
-  height:180px;
+  width:150px;
+  height:150px;
   margin:25px;
 }
 .title {
