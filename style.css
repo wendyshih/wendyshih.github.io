@@ -28,8 +28,8 @@ blockcontainer{
 }
 .photo{
   border-radius:50%;
-  width:120px;
-  height:120px;
+  width:180px;
+  height:180px;
   margin:25px;
 }
 .title {
@@ -47,6 +47,8 @@ blockcontainer{
   font-weight:bold;
   color:	#4F4F4F;
 }
+
+
 @keyframes move {
   0% {
     color:rgba(190,190,190,1);
